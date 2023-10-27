@@ -1,6 +1,12 @@
 # Generate Map From Image
 
-* First of all, you need to install the <strong>Pillow</strong> and <strong>Numpy</strong> packages, with the following commands:
+* First of all, make sure you clone the repository with the following command:
+
+```bash
+$> git clone git@github.com:ArthurSobreira/map_generator.git
+```
+
+* Then, you need to install the <strong>Pillow</strong> and <strong>Numpy</strong> packages, with the following commands:
 
 ```bash
 $> pip install Pillow
