@@ -23,13 +23,16 @@ $> Enter the name that the image will be saved: <map-name>.fdf
 
 <div align="center">
   <a href="https://github.com/ArthurSobreira/42_fdf/blob/master/images/van-gogh.png" target="_blank">
-      <img height=550 src="images/van-gogh.png" hspace = "15"><br>
+      <img height=550 src="images/van-gogh.png">
    </a>
+</div><br>
+<div align="center">
    <a href="https://github.com/ArthurSobreira/42_fdf/blob/master/images/got_map.png" target="_blank">
-      <img height=550 src="images/got_map.png" hspace = "15"><br>
+      <img height=550 src="images/got_map.png">
    </a>
+</div><br>
+<div align="center">
    <a href="https://github.com/ArthurSobreira/42_fdf/blob/master/images/monalisa.png" target="_blank">
-      <img height=550 src="images/monalisa.png" hspace = "15"><br>
+      <img height=550 src="images/monalisa.png">
    </a>
-</div>
-<br>
+</div><br>
