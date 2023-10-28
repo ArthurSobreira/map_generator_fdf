@@ -12,7 +12,7 @@ relief_map = []
 for i in range(height):
     row = []
     for j in range(width):
-        height = int(np.mean(image_matrix[i, j])) - 128
+        height = int((np.mean(image_matrix[i, j])) - 128)
         color_info = f'0x{image_matrix[i, j][0]:02x}{image_matrix[i, j][1]:02x}{image_matrix[i, j][2]:02x}'
         point_info = f'{height},{color_info}'
         row.append(point_info)
