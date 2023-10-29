@@ -18,9 +18,9 @@ $> pip install numpy
 
 ```bash
 $> python3 map_generator.py
-$>
-$> Enter the image path: <image-name>
-$> Enter the name that the image will be saved: <map-name>.fdf
+
+Enter the image path: <image-name>
+Enter the name that the image will be saved: <map-name>.fdf
 ```
 
 * Once the map is generated, to render it just execute the command seen previously, with this it is possible to generate some really cool maps, like these:
