@@ -23,7 +23,7 @@ Enter the image path: <image-name>
 Enter the name that the image will be saved: <map-name>.fdf
 ```
 
-* Once the map is generated, to render it just execute the command seen previously, with this it is possible to generate some really cool maps, like these:
+* Once the map is generated, to render it just run your binary with it, this way it is possible to generate some really cool maps, like these:
 
 <br>
 
