@@ -13,7 +13,7 @@ $> pip install Pillow
 $> pip install numpy
 ```
 
-* Now, to create properly formatted maps that can be read by <strong>Fdf</strong>, simply have access to an image (PNG or JPG)
+* Now, to create properly formatted maps that can be read by <strong>FdF</strong>, simply have access to an image (PNG or JPG)
   and run the script <code>map_generator.py</code> with the following command:
 
 ```bash
