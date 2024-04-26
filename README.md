@@ -1,6 +1,6 @@
 # Generate Map From Image
 
-* First of all, make sure you have clone the repository with the following command:
+* First of all, make sure you clone the repository with the following command:
 
 ```bash
 $> git clone git@github.com:ArthurSobreira/map_generator.git
