@@ -28,17 +28,35 @@ Enter the name that the image will be saved: <map-name>.fdf
 <br>
 
 <div align="center">
-  <a href="images/van-gogh.png" target="_blank">
-      <img height=550 src="images/van-gogh.png">
-   </a>
+   <table>
+     <tr>
+       <td style="border: 5px solid darkgray;">
+        <a href="images/van-gogh.png" target="_blank">
+            <img height=550 src="images/van-gogh.png">
+         </a>
+       </td>
+     </tr>
+   </table>
 </div><br>
 <div align="center">
-   <a href="images/got_map.png" target="_blank">
-      <img height=550 src="images/got_map.png">
-   </a>
+   <table>
+     <tr>
+       <td style="border: 5px solid darkgray;">
+         <a href="images/got_map.png" target="_blank">
+            <img height=550 src="images/got_map.png">
+         </a>
+       </td>
+     </tr>
+   </table>
 </div><br>
 <div align="center">
-   <a href="images/monalisa.png" target="_blank">
-      <img height=550 src="images/monalisa.png">
-   </a>
+   <table>
+     <tr>
+       <td style="border: 5px solid darkgray;">
+         <a href="images/monalisa.png" target="_blank">
+            <img height=550 src="images/monalisa.png">
+         </a>
+       </td>
+     </tr>
+   </table>
 </div><br>
