@@ -6,7 +6,7 @@
 $> git clone git@github.com:ArthurSobreira/map_generator.git
 ```
 
-* Then, you need to install the <strong>Pillow</strong> and <strong>Numpy</strong> packages, with the following commands:
+* Then, you need to install the <strong>Pillow</strong> and <strong>Numpy</strong> packages, with the following commands :
 
 ```bash
 $> pip install Pillow
