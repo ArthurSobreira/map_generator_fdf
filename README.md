@@ -19,7 +19,6 @@ $> pip install numpy Pillow
 $> python3 map_generator.py
 
 Enter the image path: <image-name>
-Enter the name that the image will be saved: <map-name>.fdf
 ```
 
 * Once the map has been generated, to render it you just need to run your fdf binary with it, this way you can generate some really cool maps, like these:
