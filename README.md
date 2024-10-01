@@ -9,8 +9,7 @@ $> git clone git@github.com:ArthurSobreira/map_generator.git
 * Then, you need to install the <strong>Pillow</strong> and <strong>Numpy</strong> packages, with the following commands:
 
 ```bash
-$> pip install Pillow
-$> pip install numpy
+$> pip install numpy Pillow
 ```
 
 * Now, to create properly formatted maps that can be read by <strong>FdF</strong>, simply have access to an image (PNG or JPG)
@@ -23,7 +22,7 @@ Enter the image path: <image-name>
 Enter the name that the image will be saved: <map-name>.fdf
 ```
 
-* Once the map is generated, to render it just run your binary with it, this way it is possible to generate some really cool maps, like these:
+* Once the map has been generated, to render it you just need to run your fdf binary with it, this way you can generate some really cool maps, like these:
 
 <br>
 
