@@ -29,7 +29,12 @@ def parse_without_color(image):
         row = []
         for j in range(width):
             height = int(np.mean(image_matrix[i, j]))
-            color_info = f'0xffffff'
+            if height < 0:
+                color_info = '0x333E65'
+            elif height == 0:
+                color_info = '0x626A87'
+            else:
+                color_info = '0x878EA2'
             point_info = f'{height},{color_info}'
             row.append(point_info)
         relief_map.append(row)
