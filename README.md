@@ -6,14 +6,13 @@
 $> git clone git@github.com:ArthurSobreira/map_generator.git
 ```
 
-* Then, you need to install the <strong>Pillow</strong> and <strong>Numpy</strong> packages, with the following command:
+* Then, you need to install the `<strong>`Pillow`</strong>` and `<strong>`Numpy`</strong>` packages, with the following command:
 
 ```bash
 $> pip install numpy Pillow
 ```
 
-* Now, to create properly formatted maps that can be read by <strong>FdF</strong>, simply have access to an image (PNG or JPG)
-  and run the script <code>map_generator.py</code> with the following command:
+* Now, to create properly formatted maps that can be read by `<strong>`FdF `</strong>`, simply have access to an image (theoretically the script accepts both PNG and JPG, but sometimes JPG works better than PNG, I'm not sure why) and run the script `<code>`map_generator.py `</code>` with the following command:
 
 ```bash
 $> python3 map_generator.py
