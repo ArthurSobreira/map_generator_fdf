@@ -1,4 +1,4 @@
-# Generate Map From Image
+# FDF - Generate Map From Image
 
 * First of all, make sure you clone the repository with the following command:
 
