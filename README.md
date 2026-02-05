@@ -18,6 +18,10 @@ $> pip install numpy Pillow
 $> python3 map_generator.py
 
 Enter the image path: <image-name>
+Apply logarithmic scaling to height values?
+
+  (recommended if you cant modify Z scale in the fdf) (y/n):
+
 ```
 
 * Once the map has been generated, to render it you just need to run your fdf binary with it, this way you can generate some really cool maps, like these:
